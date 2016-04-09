@@ -1,0 +1,7 @@
+Data for L = 5, 10, 15, 20, 25 was produced using large number of steps:
+
+steps_vector = 100000*[5, 5, 5, 5, 5, ... ]
+block_len_vector = 5000*[1, 1, 1, 1, 1, ...]
+
+for L = 30, 40 too much time is needed for this precision, 
+thus the "standard"  HK2 data is used.
